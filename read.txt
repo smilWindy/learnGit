@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the same modification
+=======
+remote dev
+>>>>>>> 6b31d41201af6dddf8f837f98ebc14abdb181a16
